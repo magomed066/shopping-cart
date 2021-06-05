@@ -1,6 +1,6 @@
 # shopping-cart
 
-# This is a shopping cart which is create by using Vanilla JavaScript
+## This is a shopping cart which is create by using Vanilla JavaScript
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
